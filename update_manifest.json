@@ -1,14 +1,14 @@
 {
-  "latestVersion": "1.0.3",
-  "latestVersionCode": 4,
+  "latestVersion": "1.0.4",
+  "latestVersionCode": 5,
   "releaseDate": "2026-11-16",
-  "releaseNotes": "• تسريع تنزيل التحديثات عبر خوادم CDN فائقة السرعة وتجاوز بطء الاتصال\n• استئناف التحميل تلقائياً عند انقطاع الشبكة (HTTP Resume) دون إعادة التحميل من البداية\n• إضافة زر تنزيل مباشر وسريع عبر المتصفح في نافذة التحديث\n• حل مشكلة الخطأ المفاجئ في الاتصال أثناء التحميل\n• عرض سرعة التحميل الحية (MB/s) ونسبة الإنجاز الحقيقية",
+  "releaseNotes": "• تنظيف واجهة محرر الفاتورة وحصر تعديل مقاسات الهيدر والفوتر داخل شاشة المعاينة فقط (Preview)\n• تحسينات إضافية على استقرار وسرعة تنزيل التحديثات المباشرة واستئناف التحميل",
   "fullApk": {
-    "fileName": "QuickDocx_v1.0.3.apk",
-    "url": "https://github.com/abdallahashour98/QuickDocx/releases/download/v1.0.3/QuickDocx_v1.0.3.apk",
-    "mirrorUrl": "https://ghproxy.net/https://github.com/abdallahashour98/QuickDocx/releases/download/v1.0.3/QuickDocx_v1.0.3.apk",
-    "sizeBytes": 22839759,
-    "sizeFormatted": "21.78 MB",
-    "sha256": "13f0715f55a2c0d33fde67372423079476d2963cc577b54a51e9e2f23633adfb"
+    "fileName": "QuickDocx_v1.0.4.apk",
+    "url": "https://github.com/abdallahashour98/QuickDocx/releases/download/v1.0.4/QuickDocx_v1.0.4.apk",
+    "mirrorUrl": "https://ghproxy.net/https://github.com/abdallahashour98/QuickDocx/releases/download/v1.0.4/QuickDocx_v1.0.4.apk",
+    "sizeBytes": 22806986,
+    "sizeFormatted": "21.75 MB",
+    "sha256": "eabff46c89bca336150d1d6fcb794ee0378f5d3e4ba5ef05d8931bce4b0968f2"
   }
 }
