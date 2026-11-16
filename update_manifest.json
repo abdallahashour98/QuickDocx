@@ -1,13 +1,13 @@
 {
-  "latestVersion": "1.0.1",
-  "latestVersionCode": 2,
+  "latestVersion": "1.0.2",
+  "latestVersionCode": 3,
   "releaseDate": "2026-11-16",
-  "releaseNotes": "• ميزة تحديد اسم الفاتورة قبل المشاركة والتصدير\n• إمكانية تعديل اسم الفواتير والمستندات من شاشة السجل\n• توضيح نوع الملف (Word و PDF) بتمييز بصري بارز\n• حل جذري لمشكلة إرسال ملفات الوورد كملف .bin عبر واتساب",
+  "releaseNotes": "• تحديث اسم الموديل في المساعد الذكي ليتطابق ديناميكياً مع الموديل المختار في الإعدادات.\n• تفعيل التطبيق الفوري للأوامر والاختصارات السريعة في المساعد الذكي عند النقر عليها.\n• الحفاظ الكامل على إعدادات الفاتورة والملف والشعارات والفوتر المخصص عند التعديل بالذكاء الاصطناعي.\n• إضافة أشرطة تحكم مباشرة لارتفاع لوجو الهيدر وشريط الفوتر على شاشة الفاتورة الرئيسية.\n• دعم التكبير والتصغير الديناميكي لأبعاد الهيدر والفوتر في ملفات Word (.docx) المُصدّرة.",
   "fullApk": {
-    "fileName": "QuickDocx_v1.0.1.apk",
-    "url": "https://github.com/abdallahashour98/QuickDocx/releases/latest/download/QuickDocx_v1.0.1.apk",
-    "sizeBytes": 22578435,
-    "sizeFormatted": "21.53 MB",
-    "sha256": "a2dd8ba36eef756b1eb029b12e34a0c84fe7ab6126aabe59163b7fd71e8f686c"
+    "fileName": "QuickDocx_v1.0.2.apk",
+    "url": "https://github.com/abdallahashour98/QuickDocx/releases/latest/download/QuickDocx_v1.0.2.apk",
+    "sizeBytes": 22839756,
+    "sizeFormatted": "21.78 MB",
+    "sha256": "db0457afde93e5a78ebe8a3ba0b2f672a35822892c13a458b5aceb5c73ea2064"
   }
 }
