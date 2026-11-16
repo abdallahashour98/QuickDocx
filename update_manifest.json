@@ -1,13 +1,14 @@
 {
-  "latestVersion": "1.0.2",
-  "latestVersionCode": 3,
+  "latestVersion": "1.0.3",
+  "latestVersionCode": 4,
   "releaseDate": "2026-11-16",
-  "releaseNotes": "• تحديث اسم الموديل في المساعد الذكي ليتطابق ديناميكياً مع الموديل المختار في الإعدادات.\n• تفعيل التطبيق الفوري للأوامر والاختصارات السريعة في المساعد الذكي عند النقر عليها.\n• الحفاظ الكامل على إعدادات الفاتورة والملف والشعارات والفوتر المخصص عند التعديل بالذكاء الاصطناعي.\n• إضافة أشرطة تحكم مباشرة لارتفاع لوجو الهيدر وشريط الفوتر على شاشة الفاتورة الرئيسية.\n• دعم التكبير والتصغير الديناميكي لأبعاد الهيدر والفوتر في ملفات Word (.docx) المُصدّرة.",
+  "releaseNotes": "• تسريع تنزيل التحديثات عبر خوادم CDN فائقة السرعة وتجاوز بطء الاتصال\n• استئناف التحميل تلقائياً عند انقطاع الشبكة (HTTP Resume) دون إعادة التحميل من البداية\n• إضافة زر تنزيل مباشر وسريع عبر المتصفح في نافذة التحديث\n• حل مشكلة الخطأ المفاجئ في الاتصال أثناء التحميل\n• عرض سرعة التحميل الحية (MB/s) ونسبة الإنجاز الحقيقية",
   "fullApk": {
-    "fileName": "QuickDocx_v1.0.2.apk",
-    "url": "https://github.com/abdallahashour98/QuickDocx/releases/latest/download/QuickDocx_v1.0.2.apk",
-    "sizeBytes": 22839756,
+    "fileName": "QuickDocx_v1.0.3.apk",
+    "url": "https://github.com/abdallahashour98/QuickDocx/releases/download/v1.0.3/QuickDocx_v1.0.3.apk",
+    "mirrorUrl": "https://ghproxy.net/https://github.com/abdallahashour98/QuickDocx/releases/download/v1.0.3/QuickDocx_v1.0.3.apk",
+    "sizeBytes": 22839759,
     "sizeFormatted": "21.78 MB",
-    "sha256": "db0457afde93e5a78ebe8a3ba0b2f672a35822892c13a458b5aceb5c73ea2064"
+    "sha256": "13f0715f55a2c0d33fde67372423079476d2963cc577b54a51e9e2f23633adfb"
   }
 }
